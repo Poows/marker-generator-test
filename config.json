@@ -1,0 +1,8 @@
+{
+    "amount": 500000,
+    "hash_type": ["sha1", "sha256"],
+    "load": false,
+    "label_type": ["all", "split"],
+    "ip_bit_len": [10, 12, 14, 16, 18, 20, 22, 24],
+    "data_file_path": "D:/ISPRAS/dm_marker_test/databeses_files"
+}
